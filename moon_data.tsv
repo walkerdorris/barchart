@@ -1,0 +1,9 @@
+planet_moon	number_moon
+Mercury(0)	0
+Venus(0)	0
+Earth(1)	1
+Mars(2)	2
+Jupiter(50)	50
+Saturn(53)	53
+Uranus(27)	27
+Neptune(13)	13
